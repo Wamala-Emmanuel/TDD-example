@@ -1,10 +1,10 @@
-/* eslint-disable */
+
 // Fanen Felix Auso
 // Wamala Emmanuel Kisakye
 
 
 module.exports = class Factorial {                                                    //Export the factorial class
-  this.calculate(parameter) {                                                              //method to calculate the factorial of a parameter
+  calculate(parameter) {                                                              //method to calculate the factorial of a parameter
     if(typeof(parameter) !== 'number' ||  parameter < 0) return false                 //Validate input
     
     else if (parameter == 0 || parameter == 1) return 1;

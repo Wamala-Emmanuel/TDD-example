@@ -2,8 +2,8 @@
 // Fanen Felix Auso
 // Wamala Emmanuel Kisakye
 
-const Factorial = require('../factorial'),            //import modules 
-  Fibonacci = require('../fibonacci'),
+const Factorial = require('../modules/factorial'),            //import modules 
+  Fibonacci = require('../modules/fibonacci'),
   { assert } = require('chai');
 
 describe('Unit test for math functions', () => {
