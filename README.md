@@ -8,9 +8,9 @@ The test folder contains one JS file which has the code to be used for testing t
 ___
 ## Instructions
 - Initialize a node project; **`npm init`**
-- Install the dependencies; `npm i mocha chai`
-- Add `"test": "mocha"` within scripts in the package.json file.
-- Run `npm test` or `npm test --s` to hide the npm log messages.
+- Install the dependencies; **`npm i mocha chai`**
+- Add **`"test": "mocha"`** within scripts in the package.json file.
+- Run **`npm test`** or **`npm test --s`** to hide the npm log messages.
 ___
 ## Dependencies
     "mocha": "^8.0.1"
