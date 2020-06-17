@@ -5,15 +5,15 @@ The modules folder contains two JS files each with a single module(Factorial & F
 The test folder contains one JS file which has the code to be used for testing the modules.
 
 ## Instructions
-Initialize a node project; npm init
-Install the dependencies; npm i mocha chai
-Add "test": "mocha" within scripts in the package.json file.
-Run npm test or npm test --s to hide the npm log messages.
+- Initialize a node project; `npm init`
+- Install the dependencies; `npm i mocha chai`
+- Add `"test": "mocha"` within scripts in the package.json file.
+- Run `npm test` or `npm test --s` to hide the npm log messages.
 
 ## Dependencies
-  "mocha": "^8.0.1"
-  "chai": "^4.2.0"
+    "mocha": "^8.0.1"
+    "chai": "^4.2.0"
   
   
   ### Author
-  - (Wamala Emmanuel Kisakye)[]
+- [Wamala Emmanuel Kisakye]()
